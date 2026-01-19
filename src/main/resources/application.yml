@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://lendflow_app:BoMFNix10GOAT@cluster0.cccvk7l.mongodb.net/?appName=Cluster0
+
+server:
+  port: 8080
